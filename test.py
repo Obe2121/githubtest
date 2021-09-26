@@ -1,3 +1,3 @@
 print("goodbyeWorld")
 
-print("goDuck")
+print("goDucks")
